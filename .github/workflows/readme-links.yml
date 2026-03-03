@@ -1,0 +1,28 @@
+name: README Link Check
+
+on:
+  push:
+    branches: ["main", "master"]
+  pull_request:
+  schedule:
+    - cron: "0 12 * * 1"
+
+permissions:
+  contents: read
+
+env:
+  MARKDOWN_GLOB: "**/*.md"
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --verbose --no-progress '${{ env.MARKDOWN_GLOB }}'
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}

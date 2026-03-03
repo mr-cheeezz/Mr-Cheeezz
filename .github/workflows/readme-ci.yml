@@ -1,0 +1,25 @@
+name: README CI
+
+on:
+  push:
+    branches: ["main", "master"]
+  pull_request:
+
+permissions:
+  contents: read
+
+env:
+  MARKDOWN_GLOB: "**/*.md"
+
+jobs:
+  markdown-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Lint Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v18
+        with:
+          globs: |
+            ${{ env.MARKDOWN_GLOB }}

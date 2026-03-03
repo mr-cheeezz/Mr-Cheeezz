@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Mr_Cheeezz&fontColor=ffffff&font=Baloo%202&fontAlignY=35&color=0:7f1d1d,50:dc2626,100:f97316" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Mr_Cheeezz&fontColor=ffffff&font=Righteous&fontAlignY=35&color=0:7f1d1d,50:dc2626,100:f97316" alt="header" />
 </p>
 
 <p align="center">
@@ -22,5 +22,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1793d1,100:0f172a" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7f1d1d,50:dc2626,100:f97316" alt="footer" />
 </p>

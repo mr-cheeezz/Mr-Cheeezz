@@ -23,6 +23,6 @@ jobs:
       - name: Check links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --verbose --no-progress '${{ env.MARKDOWN_GLOB }}'
+          args: --verbose --no-progress --max-concurrency 4 --retry-wait-time 5 --max-retries 3 --exclude-path .lycheeignore '${{ env.MARKDOWN_GLOB }}'
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}

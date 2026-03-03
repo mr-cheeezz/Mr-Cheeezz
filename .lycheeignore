@@ -1,0 +1,6 @@
+# Dynamic badges/cards that often fail link checks but are valid in README rendering
+^https://capsule-render\.vercel\.app/.*
+^https://komarev\.com/.*
+^https://discord\.c99\.nl/.*
+^https://spotify-github-profile\.kittinanx\.com/.*
+^https://raw\.githubusercontent\.com/mr-cheeezz/Mr-Cheeezz/master/github-metrics\.svg$

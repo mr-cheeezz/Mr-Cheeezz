@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Mr_Cheeezz&fontColor=ffffff&font=Righteous&fontAlignY=35&color=0:7f1d1d,50:dc2626,100:f97316" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Mr_Cheeezz&fontColor=ffffff&font=Luckiest%20Guy&fontSize=72&fontAlignY=34&color=0:7f1d1d,50:dc2626,100:f97316" alt="header" />
 </p>
 
 <p align="center">
@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
+  <br />
   <a href="https://discord.com/users/548941033841360898">
     <img width="34%" src="https://discord.c99.nl/widget/theme-4/548941033841360898.png" alt="Discord profile and activity" />
   </a>
-  <br />
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=g4kzbliwu3lozzyypml8kp7jc&redirect=true">
     <img width="34%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=g4kzbliwu3lozzyypml8kp7jc&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
   </a>

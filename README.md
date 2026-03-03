@@ -10,13 +10,14 @@
 </p>
 
 <p align="center">
-  <br />
   <a href="https://discord.com/users/548941033841360898">
     <img width="34%" src="https://discord.c99.nl/widget/theme-4/548941033841360898.png" alt="Discord profile and activity" />
   </a>
-  <br>
+</p>
+
+<p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=g4kzbliwu3lozzyypml8kp7jc&redirect=true">
-    <img width="34%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=g4kzbliwu3lozzyypml8kp7jc&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
+    <img width="39%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=g4kzbliwu3lozzyypml8kp7jc&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
   </a>
   <img width="2" height="220" src="https://dummyimage.com/2x220/30363d/30363d.png" alt="" />
   <img width="57%" src="./github-metrics.svg" alt="GitHub status terminal panel" />

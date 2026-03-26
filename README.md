@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/548941033841360898">
-    <img width="39%" src="https://discord.c99.nl/widget/theme-4/548941033841360898.png" alt="Discord profile and activity" />
+  <a href="https://discord.com/users/768991801553190953">
+    <img width="39%" src="https://discord.c99.nl/widget/theme-4/768991801553190953.png" alt="Discord profile and activity" />
   </a>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=g4kzbliwu3lozzyypml8kp7jc&redirect=true">
     <img width="39%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=g4kzbliwu3lozzyypml8kp7jc&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
